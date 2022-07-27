@@ -1,0 +1,13 @@
+E:\Users\Utente\source\repos\Asgard ui\bin\Debug\Asgard ui.exe.config
+E:\Users\Utente\source\repos\Asgard ui\bin\Debug\Asgard ui.exe
+E:\Users\Utente\source\repos\Asgard ui\bin\Debug\Asgard ui.pdb
+E:\Users\Utente\source\repos\Asgard ui\bin\Debug\FontAwesome.Sharp.dll
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.csproj.AssemblyReference.cache
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.csproj.SuggestedBindingRedirects.cache
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard_ui.Form1.resources
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard_ui.Properties.Resources.resources
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.csproj.GenerateResource.cache
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.csproj.CoreCompileInputs.cache
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.csproj.CopyComplete
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.exe
+E:\Users\Utente\source\repos\Asgard ui\obj\Debug\Asgard ui.pdb
